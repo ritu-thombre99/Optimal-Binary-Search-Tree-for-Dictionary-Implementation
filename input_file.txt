@@ -1,0 +1,24 @@
+General relativity, also known as the general theory of relativity, 
+is the geometric theory of gravitation published by Albert Einstein in 1915 
+and is the current description of gravitation in modern physics. 
+General relativity generalizes special relativity and refines Newton's law of 
+universal gravitation, providing a unified description of gravity as a geometric 
+property of space and time or four dimensional spacetime. 
+In particular, the curvature of spacetime is directly related to the energy and 
+momentum of whatever matter and radiation are present. The relation is specified 
+by the Einstein field equations, a system of partial differential equations.
+
+Some predictions of general relativity differ significantly from those of classical 
+physics, especially concerning the passage of time, the geometry of space, the 
+motion of bodies in free fall, and the propagation of light. Examples of such 
+differences include gravitational time dilation, gravitational lensing, the 
+gravitational redshift of light, the gravitational time delay and 
+singularities or black holes. The predictions of general relativity in relation to 
+classical physics have been confirmed in all observations and experiments to date.
+Although general relativity is not the only relativistic theory of gravity, it is 
+the simplest theory that is consistent with experimental data. However, 
+unanswered questions remain, the most fundamental being how general relativity 
+can be reconciled with the laws of quantum physics to produce a complete and 
+self consistent theory of quantum gravity, how gravity can be unified with the 
+three nongravitational forces - strong nuclear, weak nuclear, and electromagnetic 
+force.
